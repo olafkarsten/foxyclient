@@ -15,7 +15,6 @@
     ],
     "require": {
         "guzzlehttp/guzzle": "~6.2",
-        "guzzlehttp/cache-subscriber": "0.1.*@dev",
         "php": ">=5.3.3"
     },
     "autoload": {
